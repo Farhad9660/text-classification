@@ -1,5 +1,5 @@
 # text-classification
-A text classification pipeline fro spoam detection with spaCy
+A text classification pipeline for spam detection with spaCy
 - tokenizer
 - stemmer
 - word2Vec
