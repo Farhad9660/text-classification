@@ -5,4 +5,4 @@
 - word2Vec
 - text categorizer wih spaCy textcat
  
-### you can download the data set in [here](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+### You can download the data set in [here](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
